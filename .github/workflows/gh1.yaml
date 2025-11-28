@@ -1,4 +1,4 @@
-name: gh1-inside
+name: gh1-inside-update
 
 on:
   pull_request:
